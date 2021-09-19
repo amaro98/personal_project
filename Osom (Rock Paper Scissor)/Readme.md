@@ -30,4 +30,4 @@ def ran_comp_choice():
   * The comment section is still under amendment to make it more readable
   * The Computer opponent returns random response, thus this game is basically a game of luck
   * the score count is still not working
-  * the UI sucks (I admit it)\
+  * the UI sucks (I admit it) :/

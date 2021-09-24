@@ -4,11 +4,11 @@
 Credit to Rayan Slim for the OpenCV tutorial video <br>
 Link: https://www.youtube.com/watch?v=eLTLtUVuuy4&ab_channel=ProgrammingKnowledge
 
-<h2>Demo/h2> <br>
+<h2>Demo</h2> <br>
+
 https://user-images.githubusercontent.com/88897287/134710589-5f4e53a0-f11b-4650-aa33-ed552753f4c9.mp4
 
-<h2>Overview/h2> <br>
-  
+<h2>Overview</h2> <br>
   * the Video/Image undergoes pre=processing which includes
     - Converting RGB into grayscale
     - Apply Gaussian Blur

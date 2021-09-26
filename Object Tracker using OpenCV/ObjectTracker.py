@@ -3,7 +3,7 @@ import cv2
 '''
 [ASSIGN CAMERA TO VIDEO CAPTURE OBJECT]
 
-    - cv2.VideoCapture(n) where n is the camera device in your PC
+    - cv2.VideoCapture(n) where n is the camera device in your PC [! YOU MIGHT WANNA CHANGE THIS PART !]
     - 0 : External Cam
     - 1 : Built-in Camera
 '''
